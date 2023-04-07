@@ -1,0 +1,7 @@
+npm install @react-navigation/native @react-navigation/native-stack
+npx expo install react-native-screens react-native-safe-area-context
+npm install firebase
+
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/material-top-tabs react-native-tab-view
+npx expo install expo-linear-gradient
